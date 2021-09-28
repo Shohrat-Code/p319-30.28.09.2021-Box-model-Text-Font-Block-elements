@@ -16,5 +16,5 @@ https://www.w3schools.com/html/html_blocks.asp<br />
 https://www.w3schools.com/html/html_iframe.asp<br />
 
 
-##### 2. Aşağıdakı linkdə drive-a şəklini yüklədiyim hissəni yığın:
+##### 2. Aşağıdakı linkdə, drive-a şəklini yüklədiyim hissəni yığın:
 http://themesindustry.com/html/trax-2020/about.html
